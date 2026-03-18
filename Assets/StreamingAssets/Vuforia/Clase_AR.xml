@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="foto_golpe_del_atardecer" size="1.000000 1.000000" />
+    <ImageTarget name="crucebasura_de_luz_de_estrellas" size="1.000000 1.000000" />
+    <ImageTarget name="cofre" size="1.000000 1.000000" />
     <ImageTarget name="darkmagicianreco" size="1.000000 1.000000" />
     <ImageTarget name="blueyesv2" size="1.000000 1.000000" />
   </Tracking>
